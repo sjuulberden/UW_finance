@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UW Finance</string>
+    <string name="add_costs">Add costs</string>
+    <string name="look_up_costs">Look up costs</string>
+	<string name="no_internet">No internet is available. Connecting…</string>
+	<string name="description">Description</string>
+	<string name="amount">Amount</string>
+	<string name="enter_timespan">Enter timespan</string>
+	<string name="set">Set</string>
+	<string name="from">From</string>
+	<string name="to">To</string>
+	<string name="add">Add</string>
+	<string name="save">Save</string>
+	<string name="timespan_entered">Timespan entered:</string>
+	<string name="total_costs">Total costs:</string>
+	<string name="look_up">Look up</string>
+    
+</resources>
