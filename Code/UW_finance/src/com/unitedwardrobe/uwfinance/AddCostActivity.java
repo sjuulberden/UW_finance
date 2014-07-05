@@ -93,7 +93,7 @@ public class AddCostActivity extends Activity {
 		params.put("to", to.getText().toString());
 		
 		// For very low-level 'security' we include this secret key. This way only the app can add things through the API 
-		params.put("api_key", "lyqnHWqCDONqtOSubFS1");
+		params.put("api_key", "*********");
 		
 		// Show loading dialog
 		final ProgressDialog progress = ProgressDialog.show(this, "Contacting server", "Sending request");
