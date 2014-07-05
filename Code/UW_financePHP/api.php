@@ -24,7 +24,7 @@ class Api {
 		$this->data = $_POST;
 		
 		// Check if the correct API key is set
-		if(!isset($_POST['api_key']) || $_POST['api_key'] != "lyqnHWqCDONqtOSubFS1") {
+		if(!isset($_POST['api_key']) || $_POST['api_key'] != "*********") {
 			
 			// Don't handle this request
 			die('access denied');
